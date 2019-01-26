@@ -52,7 +52,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |8    | [Duaa Alshahrani](https://github.com/DuaaMohd) | | | |
 |9    | [Mohammed Alamri](https://github.com/Mohammed-ALAmri)  | |  | |
 |10    | [Badr Alnassar](https://github.com/BadrAlnassar) |  | |  |
-
+|11    | [Adel Alkhaibari](https://github.com/adel711) |  | |  |
 
 #### Further Resources
 
