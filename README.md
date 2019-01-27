@@ -54,6 +54,20 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |10    | [Badr Alnassar](https://github.com/BadrAlnassar) |  | |  |
 |11    | [Adel Alkhaibari](https://github.com/adel711) |  | |  |
 
+
+
+## Homeworks
+### Submitting
+
+- Fork the repository by hitting the fork button on the repository page
+- Clone the repository on your local machine in a safe place
+ - NOW THERE ARE INDIVIDUAL BRANCHES. CHECK OUT YOUR BRANCH AND WORK ON THERE! git checkout <your-first-name>
+- Each time you commit a homework, sync first with the main repository, using the sync button
+- then git pull
+- then do your homework in the appropriate directory
+- git add, commit and push your work to your fork of the repository from your local, then when you're done
+- Create a pull request, using the pull request button
+
 #### Further Resources
 
 * Feel free to read more from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) about JavaScript fundamentals.
