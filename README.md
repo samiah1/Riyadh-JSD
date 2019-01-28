@@ -10,7 +10,7 @@ Welcome to JSD 1. This repository contains information and materials specific to
 
 ## Instructional Team
 - **Ebere Iweala** (Lead Instructor)
-  - [EMAIL](mailto:eiweala@live.com)
+  - [ebere.iweala@generalassemb.ly](mailto:ebere.iweala@generalassemb.ly)
   - Weekday Office Hours: 6pm - 9pm (Offline) / 
   - Saturday 2pm - 4pm (Online/Offline)
 - **Jaafar** (Facilitator)
@@ -35,6 +35,19 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | **Unit 2: The Browser and APIs** | Lessons 7 - 12 | Feedr: Introduced at the end of Lesson 11 and during Lesson 12 Lab Time| Feedr: Due before start of Lesson 15 |
 | **Unit 3: Persisting Data and Advanced Topics**| Lessons 13 - 16 |Final Project: Introduced at end of Lesson 14| |
 | **Unit 4: Building and Deploying Your App**| Lessons 17 - 18 ||Final Project: Due during Lesson 19|
+
+# Lesson Breakdown
+
+## Unit 1
+| Class | Title |
+| --- | :---: | 
+| Lesson 0 | [Installfest](curriculum/00-installfest/readme.md) || | |
+| Lesson 1 | [JS on the Command Line](curriculum/01-command-line-JS/readme.md) ||  | |
+| Lesson 2 | [Data Types](curriculum/02-data-types/readme.md) ||  | |
+| Lesson 3| [Conditionals and Loops](curriculum/03-conditionals-and-loops/readme.md) ||  |  |
+| Lesson 4 | [Functions and Scope](curriculum/04-functions-and-scope/readme.md) || |  |
+| Lesson 5 | [**Project 1 Lab:** Slackbot](curriculum/05-in-class-lab) || |  |
+
 
 
 
