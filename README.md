@@ -74,7 +74,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |17    | [Nourah Alrumaih](https://github.com/lnoura) |  | |  |
 |18    | [Mohammed alhakbani](https://github.com/Malhakbani) |  | |  |
 |19    | [Abdulkarim Onayq](https://github.com/kionayq) |  | |  |
-|20    | []() |  | |  |
+|20    | [Bader Abanmi](https://github.com/isbader95) |  | |  |
 |21    | []() |  | |  |
 |22    | []() |  | |  |
 |23    | []() |  | |  |
