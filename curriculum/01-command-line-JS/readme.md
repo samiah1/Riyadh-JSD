@@ -1,5 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
-# Command Line JavaScript### Learning Objectives
+# Command Line JavaScript
+
+### Learning Objectives
 
 - Use the most common commands to navigate and modify files / directories via the terminal window.
 - Initialize a local Git repository and push/pull changes to a remote Git repository.
@@ -8,16 +10,14 @@
 ### Preparation
 *Before this lesson, students should already be able to:*
 
-- Summarize the client-server model and explain how a DNS Lookup works.
 - Installing and configuring Node.js, npm, Git, and other command line tools.
 - Writing pseudocode and think programmatically.
 - Using HTML and CSS to create static Web pages.
 
->Note: In the last class, students set their computers up with command line tools like Git and Node, and they worked on a pseudocode exercise. Check to make sure everyone understands the materials covered in the last class and has their command line utilities installed and configured.
 
 ---
 <a name="opening"></a>
-## JS & Web Tech (20 min)
+## JS & Web Tech
 
 #### What Can JavaScript Do?
 
@@ -37,8 +37,6 @@
 Citation: [W3C](https://www.w3.org/community/Webed/wiki/What_can_you_do_with_JavaScript)
 
 #### Node.js
-
->Note: Students should be made aware that we will be using Node during Unit 1 so we can run JavaScript on the command line. This will allow us to learn the fundamentals of programming and the syntax of JavaScript without the distractions of the browser.
 
 We will be using node.js to interpret JS code in the class. Here's a bit more about Node.js.
 
@@ -93,8 +91,7 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 **For Windows**:
  * Open the "Command Prompt" application.
- * For a better experience, try [Console](http://sourceforge.net/projects/console/).
- * [git bash](https://gitforwindows.org/)
+ * For a better experience, try [Console](http://sourceforge.net/projects/console/) or [git bash](https://gitforwindows.org/)
 
 
 **Get familiar with the basic commands on the terminal!**
@@ -116,7 +113,7 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 8. Create an empty directory within the Advanced JS folder and remove it. ```mkdir test_folder ``` and ```rmdir test_folder ```
 
->Note: Be sure to explain each command while students code along. Switch back to the finder often, so students can make the connection between how the GUI and CLI function.
+
 
 #### More Independent Practice
 
@@ -191,7 +188,6 @@ GitHub's collaborative process can work many different ways, but this is the mos
 
 * **Git** - A version control program that saves the state of your project's files and folders; It takes a "snapshot" of what all your files look like at that moment and stores a reference to that "snapshot".
 
->Note: You may want to compare Git to an organizational backup tool used to save and organize work; be mindful of your students' experience and try not to use too much technical vocabulary.
 
 * **Repository** - A central location in which data—typically project-related—is stored and managed
 * **Clone** - To download data from the cloud to your local machine (laptop, computer, etc.)
@@ -218,10 +214,6 @@ In this codealong, students will create their first GitHub repository and push t
 8. Push your changes to GitHub and verify that the changes were received in the Web interface
 9. Try visiting https://username.github.io/goals (where "username" is your actual GitHub username)
 
-  > Note: This exercise can require helping students on lots of small, fiddly
-  > points such as using HTTPS vs SSH (they should use SSH as we set that up
-  > last lesson), accidentally initializing a respository with a `README.md`
-  > file requiring a `git push -f` to overwrite, etc.
 
 ---
 
