@@ -75,7 +75,7 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 | Command | Description | Command| Description |
 | --- | --- | --- | --- |
-| `ls` - mac & `dir` win | **L**i**s**t the contents of the directory | `code .` | Open VS Code text|
+| `ls` - mac & &nbsp;  `dir` win | **L**i**s**t the contents of the directory | `code .` | Open VS Code text|
 | `cd` | **C**hange **d**irectories| `pwd`| **P**rint **w**orking **d**irectory |
 | `mkdir` | **M**a**k**e **dir**ectory | `say`| Make your computer talk |
 | `rmdir` | **R**e**m**ove empty **dir**ectories  | `open`| Open a particular file in their default application|
