@@ -75,12 +75,12 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 | Command | Description | Command| Description |
 | --- | --- | --- | --- |
-| `ls` - mac & &nbsp;  `dir` win | **L**i**s**t the contents of the directory | `code .` | Open VS Code text|
+| `ls` - mac &<br/>  `dir` win | **L**i**s**t the contents of the directory | `code .` | Open VS Code text|
 | `cd` | **C**hange **d**irectories| `pwd`| **P**rint **w**orking **d**irectory |
 | `mkdir` | **M**a**k**e **dir**ectory | `say`| Make your computer talk |
 | `rmdir` | **R**e**m**ove empty **dir**ectories  | `open`| Open a particular file in their default application|
 | `rm` | **R**e**m**ove files or directories | `./`  | The current folder|
-| `touch` for mac & `copy nul “emptyFileName.js”` for win | Create an empty file | `../`| One folder above your current working directory
+| `touch` for mac &<br/> `copy nul “emptyFileName.js”` for win | Create an empty file | `../`| One folder above your current working directory
 | `echo` | Return a string |  `~/` | The home folder  |
 
 #### Command Line Codealong
@@ -193,7 +193,6 @@ GitHub's collaborative process can work many different ways, but this is the mos
 * **Clone** - To download data from the cloud to your local machine (laptop, computer, etc.)
 * **Commit** - To save a version of your project to Git
 
->Note: We suggest you draw a diagram and explain what happens when you push/pull and stage a commit. Make sure students understand that changes first need to be added and then committed before they can be pushed. Remember to explain the differences between your local working repository vs. what is on GitHub. And don’t forget to review the vocabulary!
 
 ### GitHub Exercise
 
@@ -287,5 +286,3 @@ Here are some tips that you'll want to keep in mind as you continue coding!
   * If you find yourself doing the same thing repeatedly, automate it.
 
 #### Further Resources
-
-* [Review Git](https://www.codeschool.com/courses/try-git)
