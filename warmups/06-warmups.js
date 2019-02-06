@@ -10,12 +10,10 @@
     Date - 
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
 
+
 */
 
-var currentDate = function(){
-
-
-}
+//write your function here
 
 
 /*
@@ -32,10 +30,7 @@ var currentDate = function(){
 
 */
 
-var secToHourMins = function(num){
-
-}
-
+//write your function here
 
 /*
 Anagram Detector
@@ -53,6 +48,4 @@ join()- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global
 
 */
 
-var anamgramDetector = function(str){
-
-}
+//write your function here
