@@ -19,7 +19,22 @@
   // - park
 
 // Answer Starts Here
+let car = new Object()
 
+function Cars (make, model, year, drive, brake, park) {
+  this.make = make
+  this.model = model
+  this.year = year
+  this.drive = drive
+  this.brake = brake
+  this.park = park
+}
+var car1 = new Cars('Toyota', 'land cruiser', 2018, true, false, false)
+var car2 = new Cars('Nissan', 'maxima', 2018, true, true, false)
+var car3 = new Cars('Ford', 'taurus', 2018, false, false, true)
+console.log(car1)
+console.log(car2)
+console.log(car3)
 // Answer Ends Here
 
 // 2. Create an Object literal that lines up with the following description. Store it in the variable 'pet_owner', below. Be sure to give it reasonable values for each of its properties.
@@ -33,7 +48,11 @@
   var pet_owner;
 
   // Answer Starts Here
-  
+  pet_owner = [
+              {name: "Ali",address: "King Fahad Road 3980, Riyadh"},
+              {name: "Ahmad",address: "King Abdullah Road 7865, Riyadh"},
+              {name: "Sara",address: "King Abduaziz Road 0998, Riyadh"}]
+  console.log(pet_owner)
   // Answer Ends Here
   
   // 3. Create an Object literal that lines up with the following description. Store it in the variable `some_pet`, below.
@@ -51,7 +70,11 @@
   var some_pet;
   
   // Answer Starts Here
-  
+  some_pet = [
+              {name: "tom", species: "cat", breed:"Himalayan", noise: 'meow'},
+              {name: "jack", species: "dog", breed:"Golden Retriever", noise: 'bark'},
+              {name: "nars", species: "parrot", breed:"Grey parrot", noise: 'talk'}]
+  console.log(some_pet)
   // Answer Ends Here
   
   // 4. Create a constructor function for Pet objects, as described above. The constructor function should be responseible for setting
@@ -60,7 +83,25 @@
   
   var Pet;
   // Answer Starts Here
-  
+  function Pet(name, species, breed, noise){
+    this.name = name;
+    this.species = species;
+    this.breed = breed;
+    this.noise = noise;
+    this.makeNoise = function(){
+      if(this.species ==="cat"){
+       return 'meooowwwww'
+      } 
+      else if(this.species ==="dog"){
+        return 'baaark'
+      }
+      else if(this.species ==="parrot"){
+        return 'kaak kaak'
+      }
+    }  
+  }
+  var pet1 = new Pet("nanssi", "cat", "Persian",'meow')
+  console.log(pet1 + pet1.makeNoise())
   // Answer Ends Here
   
   module.exports = {
